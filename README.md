@@ -1,0 +1,2 @@
+# Spring-Boot-News-App
+A Spring Boot app that consumes news data from newsapi.org and displays output in the form of json. 
